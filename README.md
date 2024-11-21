@@ -1,5 +1,5 @@
 
-<h1>Hi, I'm Agboola! <br/><a href="https://github.com/agboola07"></a> <a href="https://www.linkedin.com/in/Agboolaabiodun/">DataAnalyst</a>
+<h1>Hi, I'm Agboola! <br/><a href="https://github.com/agboola07"></a> <a href="https://www.linkedin.com/in/Agboolaabiodun/">Data Analyst</a>
  
 <h2> 🤳 Connect with me:</h2>
 [<img align="left" alt="agboolachoko | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
